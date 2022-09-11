@@ -1,6 +1,6 @@
 # chiiti
 this is my frt project 
-<h1>BEST YOUR EDUCATION</h1>
+<h1>SRAVYA GLASSES</h1>
 Languages used in this project  are:
 JAVA SCRIPT
 HTML
