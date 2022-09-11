@@ -133,3 +133,4 @@ This is my azure deployment
 
 
 
+the link to my frt project is https://ambitious-sand-0c0e9bd10.1.azurestaticapps.net/contact.html
